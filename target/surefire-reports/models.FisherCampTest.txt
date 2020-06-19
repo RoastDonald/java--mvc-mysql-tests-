@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: models.FisherCampTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.185 s <<< FAILURE! - in models.FisherCampTest
+testCalendar{String, String, String}[2]  Time elapsed: 0.013 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: incorrect length
+	at models.FisherCampTest.testCalendar(FisherCampTest.java:36)
+
+testCalendar{String, String, String}[3]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: incorrect length
+	at models.FisherCampTest.testCalendar(FisherCampTest.java:36)
+

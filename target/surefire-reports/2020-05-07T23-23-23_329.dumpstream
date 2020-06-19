@@ -1,0 +1,12 @@
+# Created at 2020-05-07T23:23:25.100
+мая 07, 2020 11:23:25 PM org.junit.jupiter.engine.discovery.JavaElementsResolver logMultipleTestDescriptorsForSingleElement
+
+# Created at 2020-05-07T23:23:25.101
+WARNING: Possible configuration error: method [void models.FisherCampTest.testCalendar(int,int,int)] resulted in multiple TestDescriptors [org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor, org.junit.jupiter.engine.descriptor.TestTemplateTestDescriptor]. This is typically the result of annotating a method with multiple competing annotations such as @Test, @RepeatedTest, @ParameterizedTest, @TestFactory, etc.
+
+# Created at 2020-05-07T23:23:25.154
+мая 07, 2020 11:23:25 PM org.junit.jupiter.engine.discovery.JavaElementsResolver logMultipleTestDescriptorsForSingleElement
+
+# Created at 2020-05-07T23:23:25.155
+WARNING: Possible configuration error: method [void models.FisherCampTest.testCalendar(int,int,int)] resulted in multiple TestDescriptors [org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor, org.junit.jupiter.engine.descriptor.TestTemplateTestDescriptor]. This is typically the result of annotating a method with multiple competing annotations such as @Test, @RepeatedTest, @ParameterizedTest, @TestFactory, etc.
+
